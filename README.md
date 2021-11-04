@@ -10,10 +10,6 @@
 ------------------------
 
 La documentacion de este proyecto esta en siguiente enlace (https://docs.google.com/document/d/1vxnV-1matroXr-rCzb9ifec3ubuT_Y9x/edit?usp=sharing&ouid=110944187190261753738&rtpof=true&sd=true)
-# IMPLEMENTACIONES DEL PROYECTO
-------------------------------    
-    * Diseño de la interfaz usando widgets
-    * Uso de API / Provider y HTTP
 
 # FUNCIONALIDAD DEL PROYECTO
 ------------------------------
